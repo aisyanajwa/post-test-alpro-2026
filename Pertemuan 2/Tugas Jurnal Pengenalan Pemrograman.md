@@ -14,7 +14,7 @@ File dikumpulkan dalam **1 dokumen PDF** yang berisi:
 - Kode program juga boleh ditampilkan dalam bentuk **screenshot per bagian** atau dituliskan langsung di dokumen.
 - Format penyusunan **bebas**, yang penting seluruh komponen di atas tersedia dan dikumpulkan dalam **1 file PDF**.
   
-Kumpulkan di: https://bit.ly/Pengumpulan_TP_0502
+Kumpulkan di: https://forms.gle/nk3X1RYpCKSoQJz76
 
 ---
 
