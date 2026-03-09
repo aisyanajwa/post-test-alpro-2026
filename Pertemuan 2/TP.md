@@ -13,8 +13,9 @@ File dikumpulkan dalam **1 dokumen PDF** yang berisi:
 - Penjelasan boleh ditulis langsung di **dokumen (misalnya Word)** atau dalam bentuk **komentar/markdown pada kode program**.
 - Kode program juga boleh ditampilkan dalam bentuk **screenshot per bagian** atau dituliskan langsung di dokumen.
 - Format penyusunan **bebas**, yang penting seluruh komponen di atas tersedia dan dikumpulkan dalam **1 file PDF**.
-
+  
 Kumpulkan di: https://bit.ly/Pengumpulan_TP_0502
+
 ---
 
 # Soal 1
