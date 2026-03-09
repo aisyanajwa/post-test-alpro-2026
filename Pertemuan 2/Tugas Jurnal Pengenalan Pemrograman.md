@@ -1,4 +1,4 @@
-# Tugas Pendahuluan Praktikum 2 – Pengenalan Pemrograman
+# Tugas Jurnal Praktikum 2 – Pengenalan Pemrograman
 
 ## Format Pengumpulan
 
