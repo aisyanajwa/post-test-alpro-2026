@@ -21,23 +21,3 @@ Kumpulkan di: https://bit.ly/Pengumpulan_TP_0502
 # Soal 1
 Buatlah fungsi dalam Python untuk menghitung **total harga belanja** berdasarkan harga barang dan jumlah barang.  
 Jika total belanja **lebih dari atau sama dengan 100000**, maka pembeli mendapatkan **diskon 10%**.
-
-## Flowchart
-*(Letakkan gambar flowchart di sini)*
-
-## Kode Program
-```python
-def hitung_total(harga, jumlah):
-    total = harga * jumlah
-    
-    if total >= 100000:
-        total = total - (0.1 * total)
-        
-    return total
-
-harga = int(input("Masukkan harga barang: "))
-jumlah = int(input("Masukkan jumlah barang: "))
-
-hasil = hitung_total(harga, jumlah)
-
-print("Total pembayaran:", int(hasil))
