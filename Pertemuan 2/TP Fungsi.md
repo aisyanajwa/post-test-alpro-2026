@@ -1,4 +1,4 @@
-# Tugas Pendahuluan Praktikum 1 – Fungsi Python
+# Tugas Pendahuluan Praktikum 3 – Fungsi Python
 
 ## Format Pengumpulan
 
