@@ -18,50 +18,55 @@ Kumpulkan di: https://bit.ly/Pengumpulan_TP_0502
 
 ---
 
-# Post-Test Praktikum 1  
-Modul: Dasar Python, Tipe Data, dan Operator
+# Post-Test Praktikum 2 
+Modul: Dasar Python, Percabangan, Perulangan
 
 ## Soal 1
 
-Buatlah program Python yang meminta pengguna memasukkan beberapa data berikut melalui keyboard:
+Buatlah program Python yang meminta pengguna memasukkan beberapa data melalui keyboard:
 
 - Nama pengguna  
 - Umur  
 - Tinggi badan (dalam cm)
 
-Data yang dimasukkan harus disimpan dalam variabel dengan tipe data yang sesuai. Program kemudian menampilkan kembali data tersebut dengan format yang rapi menggunakan fungsi `print()`.
+Program harus melakukan proses berikut:
 
-Selain itu, program juga harus melakukan beberapa proses berikut:
+1. Menampilkan kembali data yang dimasukkan pengguna dengan format yang rapi menggunakan `print()`.
+2. Menampilkan **tipe data dari setiap variabel** menggunakan fungsi `type()`.
+3. Menggunakan **percabangan (if-elif-else)** untuk menentukan kategori umur dengan ketentuan berikut:
+   - Umur < 13 → Anak-anak  
+   - Umur 13 – 17 → Remaja  
+   - Umur ≥ 18 → Dewasa
+4. Menggunakan **operator logika** untuk mengecek apakah pengguna memenuhi syarat berikut:
+   - Umur ≥ 18 **dan** tinggi badan ≥ 160 cm
 
-1. Menampilkan **tipe data dari setiap variabel** menggunakan fungsi `type()`.
-2. Mengecek apakah umur pengguna **lebih dari atau sama dengan 18 tahun** menggunakan operator perbandingan.
-3. Menampilkan hasil pengecekan tersebut dalam bentuk **True atau False**.
-4. Menggunakan operator logika untuk mengecek apakah pengguna **berumur ≥ 18 dan memiliki tinggi badan ≥ 160 cm**.
-
-Output program minimal menampilkan:
+Program harus menampilkan:
 - Nama pengguna
 - Umur
 - Tinggi badan
-- Tipe data setiap variabel
+- Kategori umur
 - Hasil pengecekan kondisi logika
+- Tipe data dari setiap variabel
 
 ---
 
 ## Soal 2
 
-Buatlah program Python yang meminta pengguna memasukkan **dua buah bilangan bulat** melalui keyboard.
+Buatlah program Python yang meminta pengguna memasukkan **dua buah bilangan bulat**.
 
-Program kemudian harus melakukan beberapa proses berikut menggunakan operator dalam Python:
+Program kemudian harus menampilkan beberapa operasi matematika berikut:
 
-1. Menampilkan hasil **penjumlahan, pengurangan, perkalian, dan pembagian** dari kedua bilangan menggunakan operator aritmatika.
-2. Menampilkan hasil **sisa bagi (modulus)** dan **pangkat** dari bilangan pertama terhadap bilangan kedua.
-3. Menampilkan hasil **pembagian floor (`//`)** dari kedua bilangan.
-4. Menampilkan hasil **perbandingan kedua bilangan** menggunakan operator `>`, `<`, dan `==`.
-5. Menampilkan **tipe data dari setiap hasil operasi** menggunakan fungsi `type()`.
+- Penjumlahan
+- Pengurangan
+- Perkalian
+- Pembagian
+- Sisa bagi (modulus)
+- Pangkat
 
-Output program minimal menampilkan:
-- Bilangan pertama
-- Bilangan kedua
-- Hasil setiap operasi aritmatika
-- Hasil perbandingan kedua bilangan
-- Tipe data dari hasil operasi
+Setelah menampilkan hasil operasi tersebut, program harus:
+
+1. Menggunakan **perulangan (`while`)** untuk menanyakan kepada pengguna apakah ingin melakukan perhitungan lagi.
+2. Jika pengguna memasukkan **"y"**, maka program akan meminta dua bilangan baru dan melakukan perhitungan kembali.
+3. Jika pengguna memasukkan **"n"**, maka program berhenti.
+
+Program juga harus menampilkan **tipe data dari hasil operasi** menggunakan fungsi `type()`.
