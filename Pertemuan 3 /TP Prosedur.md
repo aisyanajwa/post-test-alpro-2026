@@ -1,4 +1,4 @@
-# Tugas Pendahuluan Praktikum 3 – Fungsi Python
+# Tugas Pendahuluan Praktikum 3 – Prosedur Python
 ## Format Pengumpulan
 File dikumpulkan dalam 1 dokumen PDF yang berisi:
 
