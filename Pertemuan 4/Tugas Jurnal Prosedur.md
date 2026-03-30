@@ -1,4 +1,5 @@
-# Tugas Jurnal Praktikum 3 – Fungsi Pyhton
+# Tugas Jurnal Praktikum 4 – Prosedur Lambda
+
 ## Format Pengumpulan
 File dikumpulkan dalam 1 dokumen PDF yang berisi:
 
