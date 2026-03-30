@@ -15,57 +15,12 @@ Catatan:
 - Kode program juga boleh ditampilkan dalam bentuk screenshot per bagian atau dituliskan langsung di dokumen.
 - Format penyusunan bebas, yang penting seluruh komponen di atas tersedia dan dikumpulkan dalam 1 file PDF.
 
-Kumpulkan di: https: https://drive.google.com/drive/folders/12rtzzzJIC_cja7sfBPdIs6MKFWWiVTgS?usp=sharing
-
-# Soal 1
-
-Buatlah sebuah **prosedur** bernama `nilai_mahasiswa` dengan parameter:
-- `nama`
-- `*nilai`
-- `kkm` *(default = 75)*
+Kumpulkan di: [https: https://drive.google.com/drive/folders/12rtzzzJIC_cja7sfBPdIs6MKFWWiVTgS?usp=sharing](https://drive.google.com/drive/folders/1PGWr93yZBfJUjcN0L2MRzvd0Jn2vcqWA?usp=sharing)
 
 ---
 
-## Ketentuan
-Prosedur harus:
-1. Menampilkan **nama mahasiswa**
-2. Menampilkan **semua nilai**
-3. Menghitung **rata-rata nilai**
-4. Menampilkan **status**:
-   - `"Lulus"` jika rata-rata ≥ kkm
-   - `"Tidak Lulus"` jika rata-rata < kkm
+## Soal
 
----
-
-## Contoh Pemanggilan
-```python
-nilai_mahasiswa("Budi", 80, 70, 90)
-nilai_mahasiswa("Siti", 60, 65, 70, kkm=70)
-```
-
-# Soal 2 – Lambda Function
-
-Buatlah sebuah **fungsi lambda** bernama `kategori_nilai` yang menerima satu parameter `nilai`.
-
----
-
-## Ketentuan
-Fungsi harus mengembalikan:
-- `"A"` jika nilai ≥ 80
-- `"B"` jika 70 ≤ nilai < 80
-- `"C"` jika 60 ≤ nilai < 70
-- `"D"` jika nilai < 60
-
-> Gunakan **lambda** (bukan `def`) dan **if-else dalam satu baris**.
-
----
-
-## Contoh Penggunaan
-```python
-print(kategori_nilai(85))
-print(kategori_nilai(75))
-print(kategori_nilai(65))
-print(kategori_nilai(50))
-```
+<img width="669" height="848" alt="image" src="https://github.com/user-attachments/assets/a505d1ec-b9ee-4d1a-b3f4-a269fc1e9530" />
 
 Keterangan: tidak perlu dikumpulkan di drive jika di presentasikan saat jam praktikum
