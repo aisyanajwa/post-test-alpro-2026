@@ -15,7 +15,7 @@ Catatan:
 - Kode program juga boleh ditampilkan dalam bentuk screenshot per bagian atau dituliskan langsung di dokumen.
 - Format penyusunan bebas, yang penting seluruh komponen di atas tersedia dan dikumpulkan dalam 1 file PDF.
 
-Kumpulkan di: link menyusul
+Kumpulkan di: https://drive.google.com/drive/folders/16kJqdRPfzSLmYbOT3k3HhKLaaOVvf7a-
 
 ---
 
