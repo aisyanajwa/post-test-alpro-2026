@@ -1,4 +1,4 @@
-# Tugas Jurnal Praktikum 4 – Prosedur Lambda
+# Tugas Jurnal Praktikum 5 – Rekursif
 
 ## Format Pengumpulan
 File dikumpulkan dalam 1 dokumen PDF yang berisi:
