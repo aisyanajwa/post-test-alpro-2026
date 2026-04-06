@@ -7,7 +7,7 @@ Kode program
 1. Flowchart sederhana (boleh digambar tangan atau digital)
 2. Screenshot hasil running (output)
 3. Penjelasan alur logika program untuk setiap soal dalam 1 paragraf
-4. Deadline : 06/04/2026 08.00 WIB
+4. Deadline : 13/04/2026 08.00 WIB
 
 Catatan:
 
@@ -35,7 +35,8 @@ buah = [
     ["Pisang", "Pisang", "Pisang", "Pisang", "Pisang", "Pisang", "Pisang"],
     ["Jeruk", "Jeruk", "Jeruk", "Jeruk", "Jeruk", "Jeruk", "Jeruk"],
     ["Nanas", "Nanas", "Nanas", "Nanas", "Nanas", "Nanas", "Nanas"]
-]```
+]
+```
 
 Menjadi : 
 
@@ -48,4 +49,32 @@ buah = [
     ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
     ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
     ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"]
-]```
+]
+```
+Bantu Bu Surti untuk merubah posisi dagangan dan hitung masing-masing stok buah yang ada dan simpan dalam dictionary. 
+Petunjuk :
+1. Buat nested list untuk representasi posisi dagangan
+2. Hitung ada berapa macam buah dan jumlah masing-masing buah
+3. Simpan nama buah dan stoknya dalam dictionary
+
+---
+
+### Output
+
+```python
+[
+    ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
+    ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
+    ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
+    ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
+    ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
+    ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
+    ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"]
+]
+
+Apel   : 7
+Melon  : 7
+Pisang : 7
+Jeruk  : 7
+Nanas  : 7
+```
