@@ -19,7 +19,7 @@ Kumpulkan di: https://drive.google.com/drive/folders/14PF8FGDAT8NGugJ3LSxzaJ27EW
 
 ---
 
-## Soal 
+## Soal 1
 
 Pak Restu ingin membangu sebuah rumah baru untuk tempat tinggal, setelah berdiskusi
 dengan kontraktor maka untuk membangun rumah membutuhkan sekitar 128 sak semen.
@@ -45,3 +45,25 @@ dikeluarkan untuk membeli semen.
 **Output:**
 
 Biaya minimum beli 128 sak semen: Rp 769000
+
+## Soal 2
+
+Kombinasi (nCr)
+
+Buatlah fungsi rekursif untuk menghitung kombinasi:
+
+<img width="288" height="93" alt="image" src="https://github.com/user-attachments/assets/39a4c999-9a57-40cb-bac8-d18697cabab2" />
+
+**Ketentuan:**
+- Tidak boleh menggunakan fungsi faktorial bawaan.
+
+**Input:**
+
+5, 2
+
+**Contoh Output:**
+
+**Output:**
+
+10
+
