@@ -35,7 +35,7 @@ buah = [
     ["Pisang", "Pisang", "Pisang", "Pisang", "Pisang", "Pisang", "Pisang"],
     ["Jeruk", "Jeruk", "Jeruk", "Jeruk", "Jeruk", "Jeruk", "Jeruk"],
     ["Nanas", "Nanas", "Nanas", "Nanas", "Nanas", "Nanas", "Nanas"]
-]
+]```
 
 Menjadi : 
 
@@ -48,4 +48,4 @@ buah = [
     ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
     ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"],
     ["Apel", "Melon", "Pisang", "Jeruk", "Nanas"]
-]
+]```
