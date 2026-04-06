@@ -1,4 +1,4 @@
-# Tugas Pendahuluan Praktikum 5 – Rekursif
+# Tugas Pendahuluan Praktikum 6 – List Array
 
 ## Format Pengumpulan
 File dikumpulkan dalam 1 dokumen PDF yang berisi:
