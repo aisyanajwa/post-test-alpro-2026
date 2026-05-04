@@ -7,7 +7,7 @@ Kode program
 1. Flowchart sederhana (boleh digambar tangan atau digital)
 2. Screenshot hasil running (output)
 3. Penjelasan alur logika program untuk setiap soal dalam 1 paragraf
-4. Deadline : 06/04/2026 23.59 WIB
+4. Deadline : 04/05/2026 23.59 WIB
 
 Catatan:
 
