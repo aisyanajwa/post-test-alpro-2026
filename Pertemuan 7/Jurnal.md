@@ -1,4 +1,4 @@
-# Tugas Jurnal Praktikum 8 – Searching
+# Tugas Jurnal Praktikum 7 – Searching
 
 ## Format Pengumpulan
 File dikumpulkan dalam 1 dokumen PDF yang berisi:
