@@ -47,4 +47,8 @@ Diberikan daftar harga saham (dalam rupiah) yang sudah terurut:
 
 a. Gunakan metode *binary search* untuk mencari harga **1650**.  
 b. Tunjukkan setiap langkah pembagian data hingga nilai ditemukan.  
-c. Berapa jumlah iterasi yang diperlukan?  
+c. Berapa jumlah iterasi yang diperlukan?
+
+---
+## Soal 4
+Apa perbedaan Binary Search dan Sequential Search? Bagaimana perbandingan efisiensi waktunya (kompleksitas)?
