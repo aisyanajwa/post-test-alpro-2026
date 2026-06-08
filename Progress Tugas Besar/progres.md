@@ -5,7 +5,7 @@ Setiap kelompok diwajibkan mengumpulkan **laporan progres Tugas Besar Algoritma 
 ## Isi Laporan
 
 ### 1. Identitas Kelompok
-- Daftar anggota kelompok beserta NRP/NIM
+- Daftar anggota kelompok beserta NIM
 
 ### 2. Judul Proyek Tugas Besar
 - Nama atau judul proyek yang sedang dikembangkan
