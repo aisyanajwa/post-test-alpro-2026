@@ -30,3 +30,4 @@ Setiap kelompok diwajibkan mengumpulkan **laporan progres Tugas Besar Algoritma 
 ## Pengumpulan
 
 Pengumpulan dilakukan melalui link folder berikut: https://drive.google.com/drive/folders/1Tb7wukhqKLNH8UR3-L3F6NGXAhT1KhCT?usp=sharing
+Deadline Jumat 12 Juni 2026, 23.59
